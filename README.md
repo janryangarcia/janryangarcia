@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Linux and Bash
 - 🤔 I’m looking for help with learning about Cloud and DevOps
 - 💬 Ask me about Fitness related questions 
 - 📫 How to reach me: (https://www.linkedin.com/in/janryangarcia/)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm into fitness and health and love watching self-development and productivity videos.
